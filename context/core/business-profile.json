@@ -1,0 +1,135 @@
+{
+  "_meta": {
+    "type": "business_profile",
+    "updated_at": "2025-12-17"
+  },
+  "data": {
+    "company": {
+      "name": "tautai.net",
+      "mission": "Consulting and training based on 'The Tautai Principle' — helping organizations cope with multiple crises, rapid change, complexity, and AI transformation",
+      "target_audience": "Organizations in Central Europe (especially Germany) seeking to adapt to today's complex business environment"
+    },
+    "problem_solved": "Organizations need to understand that old solutions no longer work, grasp the necessary changes, and acquire practical tools that provide hope and a path forward",
+    "offerings": {
+      "tautai_foundations_day_course": {
+        "type": "training",
+        "name": "Tautai Foundations — One-Day Course",
+        "description": "Creates shared language and conceptual clarity",
+        "duration": "1 day",
+        "pricing": {
+          "amount": "€15,000 total or €1,500 per participant",
+          "model": "one-time",
+          "max_participants": 20
+        },
+        "target_audience": "Senior managers and change agents"
+      },
+      "tautai_practice_lab": {
+        "type": "training",
+        "name": "Tautai in Practice Lab",
+        "description": "Hands-on application of Tautai principles",
+        "duration": "2-3 days",
+        "pricing": {
+          "amount": "€40,000 total or €4,000 per participant",
+          "model": "one-time",
+          "max_participants": 20
+        },
+        "target_audience": "Change agents"
+      },
+      "guided_adoption": {
+        "type": "program",
+        "name": "Guided Adoption / Navigator Track",
+        "description": "Embedded support for organizational transformation",
+        "duration": "10-20 meetings over 3-6 months",
+        "pricing": {
+          "amount": "€50,000",
+          "model": "one-time"
+        },
+        "target_audience": "Organizations or departments changing their way of work"
+      },
+      "practitioner_track": {
+        "type": "program",
+        "name": "Practitioner Track",
+        "description": "Advanced practitioner development",
+        "pricing": {
+          "amount": "TBD",
+          "model": "TBD"
+        },
+        "target_audience": "TBD"
+      },
+      "vsm_coach_certification": {
+        "type": "certification",
+        "name": "VSM Coach Certification",
+        "description": "Viable System Model certification training — first of several deep dives into specific aspects of the Tautai Operating Model",
+        "duration": "3 days",
+        "pricing": {
+          "amount": "€3,000 per participant",
+          "model": "one-time"
+        },
+        "target_audience": "Practitioners seeking VSM expertise"
+      }
+    },
+    "value_ladder": {
+      "tiers": [
+        {
+          "level": "Foundation",
+          "offering": "Tautai Foundations (Day Course)",
+          "goal": "Establish shared language and conceptual clarity"
+        },
+        {
+          "level": "Application",
+          "offering": "Tautai in Practice Lab",
+          "goal": "Hands-on practice and skill building"
+        },
+        {
+          "level": "Embedding",
+          "offering": "Guided Adoption / Navigator Track",
+          "goal": "Sustained organizational transformation"
+        },
+        {
+          "level": "Deep Dive",
+          "offering": "VSM Coach Certification (and future certifications)",
+          "goal": "Specialized expertise in specific aspects of the Tautai Operating Model"
+        }
+      ]
+    },
+    "brand_positioning": {
+      "unique_angle": "Comprehensive multi-layered understanding of organizational challenges, combined with insights from managers across generations and levels, plus first-hand shop floor experience of how decisions impact people",
+      "core_philosophy": "Systems thinking as the core of humanistic behaviour",
+      "contrarian_belief": "Central European organizations (especially Germany) are overconfident, too attached to historically successful methods, and too inward-looking to handle the challenges and shocks ahead",
+      "differentiators": [
+        "Multi-layered problem understanding",
+        "Cross-generational management insight",
+        "Shop floor perspective on management decisions"
+      ]
+    },
+    "content_philosophy": {
+      "principles": [
+        "Systems thinking as foundation",
+        "Win-win for people, company, and society",
+        "AI integration with positive effects and shared ownership"
+      ],
+      "stands_for": [
+        "Opening perspectives to viewpoints previously dismissed as unrealistic",
+        "Win-win outcomes for people, company, and society",
+        "Fresh ideas and new combinations of tools and techniques",
+        "AI integration that creates positive effects and ownership for all"
+      ],
+      "stands_against": [
+        "Neoliberal and monopolistic programs relying on austerity and civil rights reduction",
+        "Prolonging colonialist structures",
+        "Preserving old power structures at any level (department, industry, organizational groupthink)"
+      ]
+    },
+    "terminology": {
+      "brand_terms": [
+        "Tautai Operating Model",
+        "Viable System Model",
+        "Adaptive Space",
+        "Growing Adaptive Organizations"
+      ],
+      "avoided_terms": [
+        "Mindfulness"
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "type": "icp_profile",
+    "updated_at": "2025-12-16"
+  },
+  "data": {
+    "identity": {
+      "description": "Change Agent, interner oder externer Berater, Manager mit 10+ Jahren Berufserfahrung. Hat Einblick in Unternehmensprozesse oder verantwortet Abteilungen/Prozesse. Kämpft mit geopolitischen Multikrisen, AI-Disruption, Komplexität und schnellen Änderungen im Business-Umfeld. Will die Organisation zukunftssicher (viable) machen.",
+      "experience_level": "fortgeschritten/gemischt",
+      "influences": [
+        "David Snowden",
+        "Scaled Agile Framework",
+        "Nate's Newsletter (Substack)"
+      ]
+    },
+    "pain_points": {
+      "primary_problem": "Organisationen versuchen neue Probleme (schnelle Änderungen, Komplexität) mit alten Methoden zu lösen (Effizienz als dominantes Ziel, Stabilität, Hierarchie)",
+      "secondary_problems": [
+        "Management ist nicht kompetent oder nicht offen für Änderungen",
+        "Manager priorisieren Positionserhalt über Zukunftsfähigkeit der Firma"
+      ],
+      "failed_solutions": [
+        "Mehr Controlling",
+        "Agile Methoden in Teams",
+        "Neue Rollenmodelle für Manager",
+        "Achtsamkeit"
+      ]
+    },
+    "aspirations": {
+      "dream_outcome": "Die Firma wird effektiver, adaptiver und ein besserer Ort zum Arbeiten für die Mitarbeiter",
+      "short_term_goals": [
+        "Mehr Offenheit für Experimente",
+        "Mehr Offenheit für neue Lösungsansätze"
+      ],
+      "long_term_goals": [
+        "Firma wird zukunftssicherer (viable), effektiver und adaptiver",
+        "Bessere Einstellung auf Business-Umfeld und schnelle Änderungen",
+        "Weniger ineffektive Bürokratie (nur nützliche)",
+        "Besserer Arbeitsort für Mitarbeiter"
+      ]
+    },
+    "objections": {
+      "doubts": [
+        "Kurzfristige Nachteile gegenüber der Konkurrenz",
+        "Nachteile für die eigene Karriere"
+      ],
+      "fears": [
+        "Der vertretene Ansatz hat nicht schnell genug Erfolg",
+        "Die Firma fällt vollständig auf altes Verhalten zurück"
+      ],
+      "excuses": [
+        "Negativbeispiele von früheren Initiativen in der eigenen Firma",
+        "Negativbeispiele aus Veröffentlichungen"
+      ]
+    },
+    "language_patterns": {
+      "problem_language": [
+        "tree-hugging",
+        "führungslos"
+      ],
+      "goal_language": [
+        "agil",
+        "adaptiv",
+        "zukunftssicher",
+        "resilient",
+        "kooperativ"
+      ],
+      "venting_statements": [
+        "Wir haben jetzt das Framework ... eingeführt. Hoffen wir, dass es diesmal eine nachhaltige Veränderung bringt und dass nicht wieder beim nächsten Vorstandswechsel alles zurückgedreht wird."
+      ]
+    }
+  }
+}

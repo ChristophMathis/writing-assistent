@@ -1,0 +1,169 @@
+{
+  "_meta": {
+    "type": "voice_profile",
+    "updated_at": "2025-12-16",
+    "source_samples": [
+      "drei-buecher.md (German reflection on influential books)",
+      "napkin-challenge.md (English narrative essay on VSM)",
+      "building-trust-md (English practical leadership article)",
+      "scaled-product-ownership workbook (English training material)",
+      "viability-canvas workbook (English structured methodology guide)"
+    ]
+  },
+  "data": {
+    "voice_dna": {
+      "core_essence": "Practitioner-scholar who bridges academic frameworks and real-world application. A seasoned organizational consultant and trainer who has metabolized complex theories into actionable insights. Approaches communication as a guide walking alongside the reader rather than lecturing from above. Fundamentally a synthesizer—connecting dots between Stafford Beer, Gary Hamel, Simon Sinek, and Jim Collins into a coherent worldview. Finds genuine intellectual joy in frameworks while remaining grounded in practical value.",
+      "worldview": "Organizations are living systems that require both structure and adaptability. Complexity cannot be eliminated but can be navigated intelligently. Good management emerges from understanding cybernetic principles—autonomy, coordination, and feedback loops. The tension between 'inside and now' versus 'outside and later' is a creative force, not a problem to solve. Trust, learning, and iterative improvement are the foundations of viable organizations. Silver bullets don't exist, but good models provide useful lenses.",
+      "emotional_palette": [
+        "intellectual curiosity (the primary driver)",
+        "measured enthusiasm without hyperbole",
+        "self-deprecating humor in narrative contexts",
+        "genuine appreciation for others' work",
+        "mild frustration with oversimplification",
+        "warmth toward readers as fellow travelers",
+        "quiet confidence grounded in experience"
+      ],
+      "social_positioning": "Expert peer rather than distant authority. Shares his own learning journey openly ('I discovered...', 'for me this was...'). Positions himself as someone who has done the hard work of synthesis and now shares insights, but acknowledges uncertainty. Neither above the reader nor falsely humble—a knowledgeable colleague at the same table."
+    },
+    "communication_style": {
+      "thought_progression": "Builds from context to insight to application. Opens with framing ('Why does this matter?'), introduces concepts with clear labels, provides practical implications, then invites further exploration. Frequently uses a 'first-then-therefore' structure: establish what is, introduce a new lens, show what changes. Often circles back to earlier points to deepen understanding.",
+      "complexity_preference": "Embraces complexity but chunks it carefully. Uses numbered steps, clear headings, and explicit transitions in instructional content. In essays, allows ideas to unfold more organically but still signals structure. Breaks down multi-part concepts with lists when helpful, but prefers prose for nuanced ideas. Not afraid to say 'this is complex' while still making it accessible.",
+      "conviction_spectrum": {
+        "confident_phrases": [
+          "it is clear that",
+          "the key point is",
+          "this changes a lot",
+          "I consider ... to be simply toxic",
+          "the exciting question is"
+        ],
+        "hedging_phrases": [
+          "in a way",
+          "for me",
+          "I think the problem is",
+          "perhaps",
+          "to put it bluntly"
+        ],
+        "typical_balance": "States positions clearly but localizes them as his perspective. Uses 'I consider' or 'for me' rather than absolute claims. Confident about principles, appropriately humble about applications. Distinguishes between 'this is how it works' (confident) and 'this is what I prefer' (qualified)."
+      }
+    },
+    "linguistic_fingerprint": {
+      "sentence_architecture": {
+        "typical_patterns": [
+          "Short declarative setup, followed by colon and explanation",
+          "Question posed, then answered in same or next paragraph",
+          "Compound sentences linked by em-dashes for asides",
+          "Parenthetical qualifications mid-sentence",
+          "Lists embedded in prose using 'e.g.' or colons"
+        ],
+        "rhythm_variations": "Alternates between punchy single-clause statements and longer explanatory sentences. Uses very short sentences for emphasis after longer passages. Paragraph length varies—single-sentence paragraphs for impact, multi-sentence for development. German writing tends toward slightly longer constructions.",
+        "transitional_habits": [
+          "So far so good. But...",
+          "This leads to the next point:",
+          "Good question.",
+          "Let me explain.",
+          "In any case,",
+          "However,",
+          "But one thing is clear:",
+          "From this you can get..."
+        ]
+      },
+      "vocabulary_tendencies": {
+        "register_mixing": "Comfortably moves between academic terminology (cybernetics, requisite variety, pathologies) and everyday language (hamster wheel, ivory tower, lubricant). Uses metaphors from navigation, biology, and pub conversations. Technical terms are introduced, then explained or demonstrated. German texts use English loanwords naturally where appropriate (Leadership, Flow, Coach).",
+        "signature_concepts": [
+          "viability and viable systems",
+          "autonomy and its limits",
+          "coordination (horizontal)",
+          "adaptive space",
+          "tension as creative force",
+          "inside-and-now vs. outside-and-later",
+          "north star / guiding principles",
+          "cohesion (preferred over alignment)",
+          "requisite variety"
+        ],
+        "lexical_preferences": {
+          "favors": ["cohesion over alignment", "tension over conflict", "navigate over solve", "viable over optimal"],
+          "avoids": ["empowerment (explains why in German context)", "silver bullet", "alignment (prefers cohesion)"]
+        }
+      },
+      "rhetorical_toolkit": {
+        "preferred_devices": [
+          "narrative framing (the pub conversation)",
+          "rhetorical questions as transitions",
+          "quotations from authorities with commentary",
+          "numbered/lettered lists for instruction",
+          "contrast pairs (inside/outside, now/later, tactical/strategic)",
+          "historical/etymological asides",
+          "self-deprecating asides in narratives"
+        ],
+        "argumentation_style": "Shows rather than asserts. Presents frameworks, demonstrates their utility, then draws conclusions. Uses real examples (Uber, his own meetups, pub conversations) rather than abstract cases. Acknowledges counterarguments or limits before the reader raises them. Builds credibility through specificity—naming sources, giving dates, citing articles.",
+        "emphasis_techniques": [
+          "blockquotes for key principles",
+          "bold sparingly for key terms on first use",
+          "short standalone sentences after explanation",
+          "repetition with variation",
+          "direct address: 'Good question.'",
+          "colons before the payoff"
+        ]
+      }
+    },
+    "authenticity_markers": {
+      "quirks_and_tells": [
+        "Historical/cultural digressions (Ermächtigungsgesetz tangent, Christmas speech reference)",
+        "Food and drink as narrative devices (beer counting, fries, scale scolding)",
+        "Self-aware about his own biases ('I am a fan of Gary Hamel')",
+        "Specific attributions (Wikipedia link, Harvard Business Review, version numbers)",
+        "Mentions books with genuine discovery energy ('I discovered quite banally in Amazon recommendations')",
+        "Timestamps and version numbers in workbooks",
+        "Acknowledges when ideas are not his own ('based on Jon Waters' VSM Guide')"
+      ],
+      "vulnerability_expression": "Admits when something 'had long been in my inbox' or when a book changed his thinking. Shares uncertainty ('I have no idea how I'll feel tomorrow morning' in narrative). Acknowledges his work is one perspective, not the truth. Doesn't claim omniscience—positions learning as ongoing."
+    },
+    "voice_boundaries": {
+      "never_sounds_like": [
+        "hype-driven thought leader ('revolutionary!', 'game-changing!')",
+        "detached academic (jargon without explanation)",
+        "aggressive critic (harsh dismissals)",
+        "overly casual blogger (slang, memes, excessive exclamation marks)",
+        "corporate-speak (synergy, leverage as verbs, paradigm shift)",
+        "self-promotional guru ('my proven method', 'the secret is...')"
+      ],
+      "always_sounds_like": [
+        "experienced practitioner sharing hard-won insights",
+        "intellectual enjoying ideas while testing them against reality",
+        "teacher who respects the learner's intelligence",
+        "someone who has read widely and synthesizes thoughtfully",
+        "German-speaking European with international perspective",
+        "person who values both rigor and accessibility"
+      ]
+    },
+    "illustrative_moments": [
+      {
+        "excerpt": "Trust is therefore not something for the Christmas speech and for feeling good, but a real productivity factor.",
+        "why_quintessential": "Characteristic move: takes a soft concept (trust), acknowledges the dismissive view (Christmas speech), then reframes it with hard logic (productivity factor). Direct, no-nonsense, but not cynical."
+      },
+      {
+        "excerpt": "Beer is much easier to digest with beer - wow, I had no idea how bad my jokes could be.",
+        "why_quintessential": "Self-deprecating humor embedded in technical explanation. Uses the narrative device (pub) to keep heavy material light. Acknowledges his own foibles without false modesty."
+      },
+      {
+        "excerpt": "Sometimes we just make fun of other people who once again haven't got the message.",
+        "why_quintessential": "Honest about in-group dynamics without being mean. Shows the human side of expert communities—gentle satire of his own tribe."
+      },
+      {
+        "excerpt": "I consider the idea of a 'dual operating system,' in which the two systems operate separately from each other, to be simply toxic.",
+        "why_quintessential": "Clear, strong position stated directly. Uses 'I consider' to own the opinion, but the word 'toxic' shows conviction. Not hedged into meaninglessness."
+      },
+      {
+        "excerpt": "It is keins der 'me too' Bücher, und es macht deutlich, dass die Thesen des Buchs auf der Basis von langer harter empirischer Arbeit entstanden sind.",
+        "why_quintessential": "Values evidence and rigor over trend-following. Mixes English phrase ('me too') naturally into German. Respects intellectual labor."
+      },
+      {
+        "excerpt": "Why I prefer cohesion to alignment: Alignment is the mindset side - cohesion is the fact.",
+        "why_quintessential": "Precise terminological distinction made simply. Shows care about language. Pragmatic philosophy: facts over intentions."
+      }
+    ],
+    "bilingual_notes": {
+      "german_english_dynamics": "Writes comfortably in both languages. German texts are slightly more reflective and personal; English texts are more instructional. Uses English technical terms in German when standard (Leadership, Flow). Occasionally explains German concepts to English readers (Ermächtigungsgesetz). Voice consistency across languages—same intellectual curiosity, same structure preferences, same balance of rigor and accessibility."
+    }
+  }
+}
